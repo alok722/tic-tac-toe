@@ -14,9 +14,9 @@
 ## 🛠 usage
 
 ```sh
-$ git clone https://github.com/alok722/angular-auth-demo.git
+$ git clone https://github.com/alok722/tic-tac-toe.git
 
-$ cd frontend
+$ cd tic-tac-toe
 
 $ npm i
 
